@@ -1,18 +1,6 @@
 {
   "framework": "nextjs",
-  "buildCommand": "next build",
-  "outputDirectory": ".next",
-  "installCommand": "npm install",
   "regions": ["sfo1"],
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic-api-key",
-    "STRIPE_SECRET_KEY": "@stripe-secret-key",
-    "STRIPE_PUBLISHABLE_KEY": "@stripe-publishable-key",
-    "STRIPE_WEBHOOK_SECRET": "@stripe-webhook-secret",
-    "STRIPE_PRICE_PRO": "@stripe-price-pro",
-    "GITHUB_TOKEN": "@github-token",
-    "NEXT_PUBLIC_APP_URL": "https://changelog-ai.vercel.app"
-  },
   "headers": [
     {
       "source": "/api/(.*)",
