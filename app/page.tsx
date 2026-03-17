@@ -16,7 +16,7 @@ export default function LandingPage() {
             </span>
           </div>
           <div className="flex items-center gap-6">
-            <Link href="#pricing" className="text-slate-300 hover:text-white transition-colors">
+            <Link href="/pricing" className="text-slate-300 hover:text-white transition-colors">
               Pricing
             </Link>
             <Link href="/generate" className="bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded-lg font-medium transition-colors">

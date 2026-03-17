@@ -2,7 +2,7 @@
 
 > AI-powered release notes generator. Turn GitHub commits into beautiful changelogs in 10 seconds.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-org/changelog-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zenpl/changelog-ai)
 
 ## 🚀 Live Demo
 
